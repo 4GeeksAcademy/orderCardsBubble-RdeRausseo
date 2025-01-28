@@ -1,1 +1,12 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+.card {
+  background-color: white;
+  width: 150px;
+  height: 270px;
+  justify-content: center;
+  border-radius: 1rem;
+  box-sizing: border-box;
+  font-size: 3rem;
+  position: relative;
+}
